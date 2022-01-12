@@ -1,3 +1,4 @@
 logs/
 tmp/
 .ipynb_checkpoints/
+.vscode/
